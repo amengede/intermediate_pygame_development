@@ -1,0 +1,18 @@
+[member]
+name: Cop
+type: soldier
+hp: 27
+max_hp: 32
+mp: 0
+max_mp: 0
+[member]
+name: SkullBoi
+type: mage
+hp: 16
+max_hp: 24
+mp: 7
+max_mp: 16
+[inventory]
+potion: 4
+magic_draught: 3
+bones: 45

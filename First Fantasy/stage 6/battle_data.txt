@@ -1,0 +1,23 @@
+[enemies]
+rat
+cultist
+rat
+cultist
+[member]
+name: SkullBoi
+type: mage
+hp: 21
+max_hp: 24
+mp: 8
+max_mp: 16
+[member]
+name: Cop
+type: soldier
+hp: 27
+max_hp: 32
+mp: 0
+max_mp: 0
+[inventory]
+potion: 3
+magic_draught: 3
+bones: 45

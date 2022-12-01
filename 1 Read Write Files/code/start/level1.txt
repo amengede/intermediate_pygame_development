@@ -1,0 +1,11 @@
+[creatures]
+bat(12,2, 23.6)
+bat(3, 45, 3.2)
+cat(2,1,catmandu)
+[player]
+name: player1
+health: 75
+[player items]
+short_sword
+potion 3
+antidote 2
